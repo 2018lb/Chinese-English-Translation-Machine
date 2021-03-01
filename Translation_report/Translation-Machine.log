@@ -1,0 +1,438 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.10.23)  1 MAR 2021 23:45
+entering extended mode
+**C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/Tran
+slation-Machine.tex
+
+(C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/Trans
+lation-Machine.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (C:\CTEX\MiKTeX\tex\latex\listings\listings.sty
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\lst@mode=\count91
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count92
+\lst@currlwidth=\dimen117
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen120
+
+(C:\CTEX\MiKTeX\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box28
+)
+(C:\CTEX\MiKTeX\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count99
+\float@exts=\toks18
+\float@box=\box29
+\@float@everytoks=\toks19
+\@floatcapt=\box30
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen123
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen124
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen125
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip11
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks21
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks22
+\eqnshift@=\dimen126
+\alignsep@=\dimen127
+\tagshift@=\dimen128
+\tagwidth@=\dimen129
+\totwidth@=\dimen130
+\lineht@=\dimen131
+\@envbody=\toks23
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\Users\78136\Desktop\2020机器学习-部分slidses\ML_lab\lab7_report\Trans
+lation-Machine.aux
+
+LaTeX Warning: Label `fig:ahze5' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+\c@lstlisting=\count113
+ (C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen132
+\scratchbox=\box33
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen133
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks26
+) <SCUT.png, id=1, 371.5335pt x 116.946pt>
+File: SCUT.png Graphic file (type png)
+ <use SCUT.png>
+Package pdftex.def Info: SCUT.png used on input line 154.
+(pdftex.def)             Requested size: 371.53258pt x 116.94571pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 168.
+LaTeX Font Info:    Try loading font information for U+msa on input line 184.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 184.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [0
+
+
+{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}} <C:/Users/78
+136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/SCUT.png>]
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+** ATTENTION: \PARstart is deprecated (line 238). Use \IEEEPARstart instead.
+<intr_0.png, id=10, 374.39874pt x 157.58875pt>
+File: intr_0.png Graphic file (type png)
+ <use intr_0.png>
+Package pdftex.def Info: intr_0.png used on input line 242.
+(pdftex.def)             Requested size: 149.75684pt x 63.03436pt.
+
+<intr_2.png, id=12, 497.86pt x 282.05376pt>
+File: intr_2.png Graphic file (type png)
+ <use intr_2.png>
+Package pdftex.def Info: intr_2.png used on input line 251.
+(pdftex.def)             Requested size: 199.14047pt x 112.81949pt.
+
+<encoder.png, id=13, 214.8025pt x 207.77625pt>
+File: encoder.png Graphic file (type png)
+ <use encoder.png>
+Package pdftex.def Info: encoder.png used on input line 263.
+(pdftex.def)             Requested size: 128.88249pt x 124.6667pt.
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+
+<decoder.png, id=14, 396.48125pt x 631.35875pt>
+File: decoder.png Graphic file (type png)
+ <use decoder.png>
+Package pdftex.def Info: decoder.png used on input line 278.
+(pdftex.def)             Requested size: 178.4149pt x 284.10881pt.
+
+Underfull \vbox (badness 7238) has occurred while \output is active []
+
+ [1
+
+
+ <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/intr
+_0.png> <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_repo
+rt/intr_2.png> <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/la
+b7_report/encoder.png>]
+Missing character: There is no � in font ptmr7t!
+Missing character: There is no � in font ptmr7t!
+ <word-encoding.png, id=21, 511.9125pt x 90.3375pt>
+File: word-encoding.png Graphic file (type png)
+
+<use word-encoding.png>
+Package pdftex.def Info: word-encoding.png used on input line 299.
+(pdftex.def)             Requested size: 230.35849pt x 40.65149pt.
+ (C:\CTEX\MiKTeX\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 344.
+
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 344.
+ [2 <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/d
+ecoder.png> <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_
+report/word-encoding.png>]
+<train.png, id=28, 744.7825pt x 714.67pt>
+File: train.png Graphic file (type png)
+ <use train.png>
+Package pdftex.def Info: train.png used on input line 378.
+(pdftex.def)             Requested size: 223.43648pt x 214.40265pt.
+
+<LOSS.png, id=29, 387.4475pt x 262.9825pt>
+File: LOSS.png Graphic file (type png)
+ <use LOSS.png>
+Package pdftex.def Info: LOSS.png used on input line 393.
+(pdftex.def)             Requested size: 232.47029pt x 157.7907pt.
+
+<results.png, id=30, 372.39125pt x 670.505pt>
+File: results.png Graphic file (type png)
+ <use results.png>
+Package pdftex.def Info: results.png used on input line 402.
+(pdftex.def)             Requested size: 186.19516pt x 335.25168pt.
+ [3 <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/t
+rain.png> <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_re
+port/LOSS.png> <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/la
+b7_report/results.png>] <attention1.png, id=38, 593.21625pt x 516.93124pt>
+File: attention1.png Graphic file (type png)
+
+<use attention1.png>
+Package pdftex.def Info: attention1.png used on input line 416.
+(pdftex.def)             Requested size: 237.28229pt x 206.76883pt.
+ <attention2.png, id=39, 600.2425pt x 542.025pt>
+File: attention2.png Graphic file (type png)
+
+<use attention2.png>
+Package pdftex.def Info: attention2.png used on input line 423.
+(pdftex.def)             Requested size: 240.09274pt x 216.80615pt.
+ [4
+
+ <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_report/atte
+ntion1.png> <C:/Users/78136/Desktop/2020机器学习-部分slidses/ML_lab/lab7_
+report/attention2.png>]
+(C:\Users\78136\Desktop\2020机器学习-部分slidses\ML_lab\lab7_report\Trans
+lation-Machine.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4667 strings out of 495354
+ 64330 string characters out of 3183858
+ 252505 words of memory out of 3000000
+ 7782 multiletter control sequences out of 15000+200000
+ 49128 words of font info for 85 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,8n,42p,855b,868s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/t
+ype1/urw/times/utmbi8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:
+/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Translation-Machine.pdf (5 pages, 620903 bytes).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
